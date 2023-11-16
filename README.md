@@ -1,4 +1,4 @@
-# CSS Basics: Pseudo Park
+# CSS Basics: Pseudo Park super
 
 This challenge will teach you how to
 
